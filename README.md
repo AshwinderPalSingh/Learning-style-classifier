@@ -33,8 +33,8 @@ This Python script identifies a BTech student's learning style through a quiz wi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone [https://github.com/AshwinderPalSingh/Learning-style-classifier.git]
+
 ```
 
 ### 2. Install Dependencies
